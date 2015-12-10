@@ -1,3 +1,6 @@
+# Main pdf
+main.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -124,3 +127,13 @@ sympy-plots-for-*.tex/
 # WinEdt
 *.bak
 *.sav
+
+# Created by https://www.gitignore.io/api/vim
+
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
