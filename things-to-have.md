@@ -1,0 +1,13 @@
+- Trois salle info de préférence communicantes (possiblement en 5000)
+- Une ou deux salles pour les tutos
+- Un serveur pour fournir des sessions aux participants
+- Une connexion filaire pour les ordinateurs portable
+- Des objets connectés (lesquels?, dépendant des sujets)
+- Du matériel pour les hypothétiques workshops
+- Un serveur pour le site web du hackathon (sera probablement hébergé sur un serveur du club)
+- Des boissons, sodas, etc…
+- De la nourriture (pizza, sandwichs, probablement fast-food en majorité)
+- Des personnes pour organiser la logistique du hackathon sur le moment
+- Des personnes pour fournir une aide technique aux participants
+- Un jury entreprise
+- Un jury enseignant
